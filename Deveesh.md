@@ -1,5 +1,6 @@
 # Deveesh Shetty
 
-- Passionate Frontend Developer and open source enthusiast.
+- President, SOSC
+- Passionate Frontend Developer
+- Open Source enthusiast.
 - 2nd Year CSE Student at Sahyadri
-- Follow me on GitHub and Twitter :)
